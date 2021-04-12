@@ -1,0 +1,6 @@
+CREATE TABLE `student` (
+`ID` int(15) NOT NULL AUTO_INCREMENT,
+`Name` varchar(55) NOT NULL,
+`Age` varchar(55) NOT NULL,
+`user_name` varchar(55) NOT NULL,
+`password` varchar(50) NOT NULL ) ENGINE=InnoDB DEFAULT CHARSET=latin1; 
